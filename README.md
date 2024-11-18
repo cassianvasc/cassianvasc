@@ -1,8 +1,11 @@
-## Olá, mundo!
-Me chamo Cassian, mas até acertarem meu nome, já fui chamado de "Cassio", "Caio", "Cassiano", e vários outros
+## Olá, Mundo!
+Me chamo Cassian, tenho 20 anos e atualmente estou cursando Ciências da Computação na CESAR School.
+Me interesso muito pela santíssima trindade: HTML, CSS e JavaScript, Front-End no geral, circuitos e códigos para arduino e robótica.
 
-- Atualmente curso Ciências da Computação na Cesar School
-- Até agora me interesso por front-end e arduino
-- Tenho dificuldade em lógica de programação mas busco diminuir isso todos os dias
-- Sou graduado em Muay Thai, gosto muito de esportes
--->
+🦄 Linguagens: **HTML, CSS e JavaScript, Python**
+
+💼 Ferramentas: **VSCode**
+
+💌 Aqui estão meus contatos: ⤵️
+
+Gmail: nbcassferrari@gmail.com [LinkedIn](https://www.linkedin.com/in/cassian-vasconcelos-ferrari/) [Instagram](https://www.instagram.com/cassianvasc/)
