@@ -8,4 +8,4 @@ Me interesso muito pela santíssima trindade: HTML, CSS e JavaScript, Front-End 
 
 💌 Aqui estão meus contatos: ⤵️
 
-Gmail: nbcassferrari@gmail.com [LinkedIn](https://www.linkedin.com/in/cassian-vasconcelos-ferrari/) [Instagram](https://www.instagram.com/cassianvasc/)
+ nbcassferrari@gmail.com / [LinkedIn](https://www.linkedin.com/in/cassian-vasconcelos-ferrari/) / [Instagram](https://www.instagram.com/cassianvasc/)
