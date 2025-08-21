@@ -1,8 +1,8 @@
 ## Olá, Mundo!
-Me chamo Cassian, tenho 20 anos e atualmente estou cursando Ciências da Computação na CESAR School.
-Me interesso muito pela santíssima trindade: HTML, CSS e JavaScript, POO, infra de redes e robótica. 
+Me chamo Cassian, tenho 21 anos e atualmente estou cursando Ciências da Computação na CESAR School.
+Gosto bastante de aprender coisas novas na área de tecnologia, meus assuntos favoritos são cibersegurança, redes de computadores e sistemas embarcados. 
 
-🦄 Linguagens: **HTML, CSS e JavaScript, Python**
+🦄 Linguagens: **C, Python**
 
 💼 Ferramentas: **VSCode**
 
