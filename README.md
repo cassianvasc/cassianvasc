@@ -1,11 +1,12 @@
-## Olá, Mundo!
-Me chamo Cassian, tenho 21 anos e atualmente estou cursando Ciências da Computação na CESAR School.
-Gosto bastante de aprender coisas novas na área de tecnologia, meus assuntos favoritos são cibersegurança, redes de computadores e sistemas embarcados. 
+import Desenvolvedor from "cassianvasc";
 
-🦄 Linguagens: **C, Python**
+class SobreMim extends Desenvolvedor {
+  nome = "Cassian Vasconcelos Ferrari";
+  interesses = "redes de computadores, cibersegurança, desenvolvimento back e front, devops, análise de dados";
+  faculdade = "Cesar School";
+  local = "Recife-PE";
+}
 
-💼 Ferramentas: **VSCode**
-
-💌 Aqui estão meus contatos: ⤵️
-
- nbcassferrari@gmail.com / [LinkedIn](https://www.linkedin.com/in/cassian-vasconcelos-ferrari/) / [Instagram](https://www.instagram.com/cassianvasc/)
+class Skills extends Desenvolvedor {
+  linguagens = ["Python, C, HTML, CSS"];
+}
