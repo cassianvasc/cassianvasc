@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Python, C, HTML, CSS, Java"];
+  linguagens = ["Python, C, HTML, CSS, Java, SQL"];
   frameworks = ["Django"];
   soft_skills = ["Organização, raciocínio lógico, empatia, resolução de problemas, trabalho em equipe"];
 }
